@@ -44,3 +44,4 @@ int main()
 }
 // program works as intended but gotta figure out a way to print
 // the characters below the histogram aligned
+// TODO: fix this shit
